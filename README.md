@@ -1,5 +1,3 @@
-# Text Prompt-Guided-Teacher-for-Surgical-Phase-Recognition
+# Semantics-guided Teacher for Surgical Phase Recognition via Knowledge Distillation
 
-Hi, this is the reposity for the paper: " Text Prompt-Guided-Teacher-for-Surgical-Phase-Recognition".
-
-Code will be released soon!
+Here we will release the reference implementation of our paper entitled: "Semantics-guided Teacher for Surgical Phase Recognition via Knowledge Distillation", which was submitted to MEDICAL IMAGE ANALYSIS.
